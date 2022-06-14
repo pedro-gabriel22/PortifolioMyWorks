@@ -473,7 +473,7 @@ transition: ease-in 0.5s;
     background-color: #0b0a17;
 }
 #skills{
-    display: flex;
+    display: flex; 
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
